@@ -1,0 +1,19 @@
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Release\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.csproj.ResolveComReference.cache
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\AddinConvertToEPRT.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\AddinConvertToEPRT.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\ExportPartData.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Release\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.csprojResolveAssemblyReference.cache
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.pdb
+D:\Vlad\AddinConvertToEPRT\bin\Release\AddinConvertToEPRT.dll
+D:\Vlad\AddinConvertToEPRT\bin\Release\AddinConvertToEPRT.pdb
+D:\Vlad\AddinConvertToEPRT\bin\Release\ExportPartData.dll
+D:\Vlad\AddinConvertToEPRT\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Vlad\AddinConvertToEPRT\bin\Release\ExportPartData.pdb
+D:\Vlad\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.csprojResolveAssemblyReference.cache
+D:\Vlad\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.dll
+D:\Vlad\AddinConvertToEPRT\obj\Release\AddinConvertToEPRT.pdb

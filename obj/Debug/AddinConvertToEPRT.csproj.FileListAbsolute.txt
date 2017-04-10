@@ -1,0 +1,64 @@
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\AddinConvertToEPRT.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\AddinConvertToEPRT.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Excel.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\ExportPartData.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\PdmAsmBomToXml.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\SpecFromExcel.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Excel.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\SpecFromExcel.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToEPRT.csproj.ResolveComReference.cache
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToEPRT.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToEPRT.pdb
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.pdb
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\Excel.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\ExportPartData.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\PdmAsmBomToXml.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\SpecFromExcel.dll
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\Excel.pdb
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\SpecFromExcel.pdb
+D:\C#Projects2015\AddinConvertToEPRT\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\AddinConvertToEPRT\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csproj.ResolveComReference.cache
+D:\C#Projects2015\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.dll
+D:\C#Projects2015\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.pdb
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.pdb
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\Excel.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\ExportPartData.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\PdmAsmBomToXml.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\SpecFromExcel.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\Excel.pdb
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\SpecFromExcel.pdb
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\Interop.EdmLib.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csprojResolveAssemblyReference.cache
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\obj\Debug\Interop.EdmLib.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csproj.ResolveComReference.cache
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.dll
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.pdb
+C:\Users\Antonyk\Source\Repos\AddinConvertToEPRT\bin\Debug\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\ExportPartData.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csprojResolveAssemblyReference.cache
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Debug\Interop.EdmLib.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csproj.ResolveComReference.cache
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.dll
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.pdb
+D:\Новая папка\Projects VisualStudio\Source\AddinConvertToEPRT\bin\Debug\ExportPartData.dll
+D:\Vlad\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.dll
+D:\Vlad\AddinConvertToEPRT\bin\Debug\AddinConvertToEPRT.pdb
+D:\Vlad\AddinConvertToEPRT\bin\Debug\ExportPartData.dll
+D:\Vlad\AddinConvertToEPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Vlad\AddinConvertToEPRT\bin\Debug\ExportPartData.pdb
+D:\Vlad\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.dll
+D:\Vlad\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.pdb
+D:\Vlad\AddinConvertToEPRT\obj\Debug\AddinConvertToEPRT.csprojResolveAssemblyReference.cache

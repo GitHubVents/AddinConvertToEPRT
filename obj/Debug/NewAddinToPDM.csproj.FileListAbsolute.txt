@@ -1,0 +1,8 @@
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\NewAddinToPDM.dll
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\NewAddinToPDM.pdb
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\NewAddinToPDM.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\NewAddinToPDM.csproj.ResolveComReference.cache
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\NewAddinToPDM.dll
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\NewAddinToPDM.pdb
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\Interop.EdmLib.dll

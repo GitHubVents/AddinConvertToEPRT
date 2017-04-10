@@ -1,0 +1,16 @@
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\AddinConvertToPDF.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\AddinConvertToPDF.csproj.ResolveComReference.cache
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\AddinConvertToPDF.dll
+D:\C#Projects2015\NewAddinToPDM\bin\Debug\AddinConvertToPDF.pdb
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\AddinConvertToPDF.dll
+D:\C#Projects2015\NewAddinToPDM\obj\Debug\AddinConvertToPDF.pdb
+D:\C#Projects2015\AddinConvertToPDF\bin\Debug\AddinConvertToPDF.dll
+D:\C#Projects2015\AddinConvertToPDF\bin\Debug\AddinConvertToPDF.pdb
+D:\C#Projects2015\AddinConvertToPDF\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToPDF\obj\Debug\AddinConvertToPDF.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\AddinConvertToPDF\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToPDF\obj\Debug\AddinConvertToPDF.csproj.ResolveComReference.cache
+D:\C#Projects2015\AddinConvertToPDF\obj\Debug\AddinConvertToPDF.dll
+D:\C#Projects2015\AddinConvertToPDF\obj\Debug\AddinConvertToPDF.pdb

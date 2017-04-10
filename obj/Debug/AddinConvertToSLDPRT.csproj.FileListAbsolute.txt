@@ -1,0 +1,15 @@
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Excel.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\ExportPartData.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\PdmAsmBomToXml.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\SpecFromExcel.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Excel.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\SpecFromExcel.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToSLDPRT.csprojResolveAssemblyReference.cache
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\Interop.EdmLib.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToSLDPRT.csproj.ResolveComReference.cache
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\AddinConvertToSLDPRT.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\bin\Debug\AddinConvertToSLDPRT.pdb
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToSLDPRT.dll
+D:\C#Projects2015\AddinConvertToSLDPRT\obj\Debug\AddinConvertToSLDPRT.pdb
